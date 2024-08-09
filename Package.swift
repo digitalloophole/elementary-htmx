@@ -27,7 +27,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/sliemeobn/elementary.git", from: "0.1.1"),
+        .package(url: "https://github.com/digitalloophole/elementary.git", from: "0.1.1"),
     ],
     targets: [
         .target(
